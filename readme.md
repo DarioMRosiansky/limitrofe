@@ -1,5 +1,5 @@
-<h1 align="center">🎭 limitrofe Producciones 🎪</h1>
-<h3 align="center">Una productora de s en Buenos Aires</h3>
+<h1 align="center">🎭 Limitrofe Producciones 🎪</h1>
+<h3 align="center">Una productora de video-danza en Buenos Aires</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
