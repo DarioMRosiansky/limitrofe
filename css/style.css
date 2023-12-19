@@ -514,6 +514,20 @@ footer {
     width: 550px;
     height: 250px; } }
 
+/* --------------------------------- CONTACTO --------------------------------- */
+
+
+    @media screen and (max-width: 600px) {
+      .contacto {
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+      }
+      form {
+        width: 100%;
+      }
+    }
+
 /* --------------------------------- FOOTER --------------------------------- */
 
 @media screen and (max-width: 968px) {
