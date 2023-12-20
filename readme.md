@@ -1,7 +1,7 @@
 <h1 align="center">🎭 Limitrofe Productora 🎪</h1>
 <h3 align="center">Una productora de Videodanza en Buenos Aires</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: dariutias@hotmail.com </h3>
 <p align="left">
 </p>
 
