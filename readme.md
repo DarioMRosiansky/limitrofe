@@ -2,7 +2,7 @@
 <h3 align="center">Una productora de Videodanza en Buenos Aires</h3>
 
 <h3 align="center">Connect with me: dariutias@hotmail.com </h3>
-<p align="center"> :dancers:
+<p align="center"> :dancers: :man_dancing: :ballet_shoes:
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
